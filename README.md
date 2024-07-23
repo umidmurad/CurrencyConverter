@@ -14,17 +14,31 @@ CurrencyConverter is a Python-based tool for converting amounts between differen
 
 ## Example of Usage
 
-(base) Macbook CurrencyConverter % python exchangeit.py
-3-letter code for original currency: USD
-3-letter code for the new currency: EUR
-Amount of the original currency: 3.2
-You can exchange 3.2 USD for 2.837 EUR.
+<hr>
 
 (base) Macbook CurrencyConverter % python exchangeit.py
+
+3-letter code for original currency: USD
+
+3-letter code for the new currency: EUR
+
+Amount of the original currency: 3.2
+
+You can exchange 3.2 USD for 2.837 EUR.
+
+<hr>
+
+(base) Macbook CurrencyConverter % python exchangeit.py
+
 3-letter code for original currency: EUR
+
 3-letter code for the new currency: ARS
+
 Amount of the original currency: 532.21
+
 You can exchange 532.21 EUR for 24935.138 ARS.
+
+<hr>
 
 ## Note
 
